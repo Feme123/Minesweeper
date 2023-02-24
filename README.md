@@ -7,7 +7,7 @@ Clasico juego buscaminas, se empieza por la cantidad de minas que queremos en nu
 
 Se introducen coordenadas empezando con las columnas marcando una mina o una casilla libre.
 
-Hasta que encontremos una mina y perdamos o hayamos encontrado todas las minas
+Hasta que encontremos una mina y perdamos o hallamos encontrado todas las minas
 
 
 
